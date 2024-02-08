@@ -11,7 +11,7 @@ import (
 	FlareDefine "github.com/soulteary/flare/config/define"
 	FlareModel "github.com/soulteary/flare/config/model"
 	FlareAuth "github.com/soulteary/flare/internal/auth"
-	weather "github.com/soulteary/funny-china-weather"
+	weather "github.com/w4lk3r/funny-go-weather"
 )
 
 type RemoteWeatherResponse struct {

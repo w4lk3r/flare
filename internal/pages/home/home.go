@@ -16,7 +16,7 @@ import (
 	FlareAuth "github.com/soulteary/flare/internal/auth"
 	FlareFn "github.com/soulteary/flare/internal/fn"
 	FlareWeather "github.com/soulteary/flare/internal/settings/weather"
-	weather "github.com/soulteary/funny-china-weather"
+	weather "github.com/w4lk3r/funny-go-weather"
 )
 
 func init() {

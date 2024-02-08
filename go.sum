@@ -95,8 +95,6 @@ github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZN
 github.com/rogpeppe/go-internal v1.6.1/go.mod h1:xXDCJY+GAPziupqXw64V24skbSoqbTEfhy4qGm1nDQc=
 github.com/rogpeppe/go-internal v1.8.0 h1:FCbCCtXNOY3UtUuHUYaghJg4y7Fd14rXifAYUAtL9R8=
 github.com/rogpeppe/go-internal v1.8.0/go.mod h1:WmiCO8CzOY8rg0OYDC4/i/2WRWAB6poM+XZ2dLUbcbE=
-github.com/soulteary/funny-china-weather v0.1.1 h1:b/RPaANSgDkrsQ4q2h5iaGs+S1yTBp9e3VYUkra5uiU=
-github.com/soulteary/funny-china-weather v0.1.1/go.mod h1:4po196pA+zjhoAgckkUtmLo2bu2r7jl/kwITRKGQYTw=
 github.com/soulteary/memfs v0.1.0 h1:phV9TrPmiU6MBc0C2jiOWqjU/eBb4KkF/hBpI/2LHj8=
 github.com/soulteary/memfs v0.1.0/go.mod h1:qJkwZ8IAF04VO0vp7GyjVC3sqBDsiW/a1DrC/TQWsM8=
 github.com/spf13/pflag v1.0.5 h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=
@@ -126,6 +124,8 @@ github.com/ugorji/go v1.2.7/go.mod h1:nF9osbDWLy6bDVv/Rtoh6QgnvNDpmCalQV5urGCCS6
 github.com/ugorji/go/codec v1.2.7/go.mod h1:WGN1fab3R1fzQlVQTkfxVtIBhWDRqOviHU95kRgeqEY=
 github.com/ugorji/go/codec v1.2.12 h1:9LC83zGrHhuUA9l16C9AHXAqEV/2wBQ4nkvumAE65EE=
 github.com/ugorji/go/codec v1.2.12/go.mod h1:UNopzCgEMSXjBc6AOMqYvWC1ktqTAfzJZUZgYf6w6lg=
+github.com/w4lk3r/funny-go-weather v0.1.2 h1:lMhifwdysaNHJ/6BzmFjaW0c/H2OhA4xcItINwweF+8=
+github.com/w4lk3r/funny-go-weather v0.1.2/go.mod h1:kTJbZC00/0qROvhE87yrawZVzPTsV+MhqKaEIYzYKN8=
 golang.org/x/arch v0.0.0-20210923205945-b76863e36670/go.mod h1:5om86z9Hs0C8fWVUuoMHwpExlXzs5Tkyp9hOrfG7pp8=
 golang.org/x/arch v0.7.0 h1:pskyeJh/3AmoQ8CPE95vxHLqp1G1GfGNXTmcl9NEKTc=
 golang.org/x/arch v0.7.0/go.mod h1:FEVrYAQjsQXMVJ1nsMoVVXPZg6p2JE2mx8psSWTDQys=
