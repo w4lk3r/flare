@@ -15,7 +15,7 @@ require (
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.4
 	github.com/tdewolff/minify/v2 v2.20.16
-	github.com/w4lk3r/funny-go-weather v0.1.2
+	github.com/w4lk3r/funny-go-weather v0.1.3
 	gopkg.in/ini.v1 v1.67.0
 )
 
