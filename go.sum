@@ -128,6 +128,8 @@ github.com/w4lk3r/funny-go-weather v0.1.2 h1:lMhifwdysaNHJ/6BzmFjaW0c/H2OhA4xcIt
 github.com/w4lk3r/funny-go-weather v0.1.2/go.mod h1:kTJbZC00/0qROvhE87yrawZVzPTsV+MhqKaEIYzYKN8=
 github.com/w4lk3r/funny-go-weather v0.1.3 h1:w8uxbNd4tF40ib8Um83ep1gwHweFaObnkmnG/Dg1RDc=
 github.com/w4lk3r/funny-go-weather v0.1.3/go.mod h1:kTJbZC00/0qROvhE87yrawZVzPTsV+MhqKaEIYzYKN8=
+github.com/w4lk3r/funny-go-weather v0.1.4 h1:oLLsKd1EjdXeGSlJSZ4KtGEV+flNFmAqPi7dYYQQ1Wk=
+github.com/w4lk3r/funny-go-weather v0.1.4/go.mod h1:kTJbZC00/0qROvhE87yrawZVzPTsV+MhqKaEIYzYKN8=
 golang.org/x/arch v0.0.0-20210923205945-b76863e36670/go.mod h1:5om86z9Hs0C8fWVUuoMHwpExlXzs5Tkyp9hOrfG7pp8=
 golang.org/x/arch v0.7.0 h1:pskyeJh/3AmoQ8CPE95vxHLqp1G1GfGNXTmcl9NEKTc=
 golang.org/x/arch v0.7.0/go.mod h1:FEVrYAQjsQXMVJ1nsMoVVXPZg6p2JE2mx8psSWTDQys=
